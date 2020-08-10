@@ -66,7 +66,7 @@ window.onload = function() {
 					seconds += 0.5;
 					if (seconds >= 5) {
 						hSub.innerHTML =
-							"Het is hier een lawaai en dat al voor<span> " +
+							"LAUTSTÄRKE!<span> " +
 							Math.floor(seconds) +
 							" </span>seconden.";
 					}
